@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=166&pause=1000&color=1A50BC&background=00DC0000&center=true&vCenter=true&random=true&width=7500&height=450&lines=Hi%2C+I'm+Abhishek+Pal+and+I+have+interests+in+Mern+and+AI+related+concepts)](https://git.io/typing-svg)
-  <h2 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">,</h2  >
-<h3 align="left">I am human who love technology , nature and camera 📷.</h3>
+
+<h3 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
+  I am human who love technology , nature and camera 📷.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek" /> </p>
 
