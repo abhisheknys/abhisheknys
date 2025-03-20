@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=166&pause=1000&color=1A50BC&background=00DC0000&center=true&vCenter=true&random=true&width=7500&height=450&lines=Hi%2C+I'm+Abhishek+Pal+and+I+have+interests+in+Mern+and+AI+related+concepts)](https://git.io/typing-svg)
-  <h2 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Abhishek Pal </h2  >
+  <h2 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">,</h2  >
 <h3 align="left">I am human who love technology , nature and camera 📷.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek" /> </p>
@@ -12,12 +12,12 @@
 
 - 💬 Ask me about **React, MongoDB, JAVA Etc.**
 
-- 📫 How to reach me  abhishekpal.hp@gmail.com
+- 📫 How to reach me  hello.abhishekpal@gmail.com
 
 - ⚡ Fun fact **I love capturing memories 📷**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethii.abhishek) [![Facebook](https://img.shields.io/badge/Facebook-%0e7cc6.svg?logo=Facebook&logoColor=white)](https://facebook.com/ethii.abhishek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethii-abhishek) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ethii-abhishek) [![Skype](https://img.shields.io/badge/Skype-%23E4405F.svg?logo=Skype&logoColor=white)](https://skype.com/ethii.abhishek) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhisheknys) [![Facebook](https://img.shields.io/badge/Facebook-%0e7cc6.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhisheknys) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheknys) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhisheknys) [![Skype](https://img.shields.io/badge/Skype-%23E4405F.svg?logo=Skype&logoColor=white)](https://skype.com/abhisheknys) 
 
 
 # 💻 Tech Stack:
