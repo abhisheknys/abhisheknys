@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **Cloud Services**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at https://www.abhishekpal.com/projects/
+- 👨‍💻 All of my projects are available at https://www.abhishekpal.com/projects/ 
 
-- 💬 Ask me about **React, MongoDB, JAVA Etc.**
+- 💬 Ask me about **React, MongoDB, JavaScript Etc.**
 
 - 📫 How to reach me  hello.abhishekpal@gmail.com
 
