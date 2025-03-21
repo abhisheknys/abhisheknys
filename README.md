@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I love capturing memories 📷**
 
 buymeacoffee.com/abhisheknys
-<img width="30px" height="30px" src="https://github.com/user-attachments/assets/81db74af-c58e-4f13-9abd-aefd3d3985af">
+<img width="100px" height="100px" src="https://github.com/user-attachments/assets/81db74af-c58e-4f13-9abd-aefd3d3985af">
 
 
 ## 🌐 Socials:
