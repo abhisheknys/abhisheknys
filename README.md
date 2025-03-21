@@ -16,13 +16,11 @@
 - 📫 How to reach me  hello.abhishekpal@gmail.com
 
 - ⚡ Fun fact **I love capturing memories 📷**
-
-<h3 align="left"> 
-  <a ahref"https://buymeacoffee.com/abhisheknys" >buymeacoffee.com/abhisheknys</a>
-<br>
+ 
+  <a align="left" ahref"https://buymeacoffee.com/abhisheknys" >buymeacoffee.com/abhisheknys</a>
+<a> <br>
   <br>
-<img width="100px" height="100px" ahref"https://buymeacoffee.com/abhisheknys" src="https://github.com/user-attachments/assets/81db74af-c58e-4f13-9abd-aefd3d3985af">
-</h3>
+<img width="100px" height="100px" ahref"https://buymeacoffee.com/abhisheknys" src="https://github.com/user-attachments/assets/81db74af-c58e-4f13-9abd-aefd3d3985af"> </a>
 
 
 ## 🌐 Socials:
