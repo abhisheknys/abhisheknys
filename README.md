@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://abhipal.vercel.app/projects/ 
 
-- 💬 Ask me about **React, MongoDB, JavaScript Etc.**
+- 💬 Ask me about **html, Css, JavaScript Etc.**
 
 - 📫 How to reach me  hello.abhishekpal@gmail.com
 
