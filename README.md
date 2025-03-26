@@ -17,10 +17,12 @@
 
 - ⚡ Fun fact **I love capturing memories 📷**
 
+
  <br>
  <h3 align="left">
 <a align="left" ahref"https://buymeacoffee.com/abhisheknys" ></a>
-<a> <img width="100px" height="100px" ahref"https://buymeacoffee.com/abhisheknys" src="https://github.com/user-attachments/assets/81db74af-c58e-4f13-9abd-aefd3d3985af"> </a>
+<a> <img width="100px" height="100px" ahref"https://buymeacoffee.com/abhisheknys" src="https://github.com/user-attachments/assets/81db74af-c58e-4f13-9abd-aefd3d3985af">
+![bmc_qr](https://github.com/user-attachments/assets/792f9a67-40f9-4a9c-abb1-55572de0fb38)</a>
  </h3>
 <br>
 
