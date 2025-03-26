@@ -23,6 +23,7 @@
 <a> <img width="100px" height="100px" ahref"https://buymeacoffee.com/abhisheknys" src="https://github.com/user-attachments/assets/81db74af-c58e-4f13-9abd-aefd3d3985af"> </a>
  </h3>
 <br>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhisheknys) [![Facebook](https://img.shields.io/badge/Facebook-%0e7cc6.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhisheknys) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheknys) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhisheknys) [![Skype](https://img.shields.io/badge/Skype-%23E4405F.svg?logo=Skype&logoColor=white)](https://skype.com/abhisheknys) 
 
