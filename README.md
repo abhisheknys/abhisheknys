@@ -22,7 +22,10 @@
  <h3 align="left">
 <a align="left" ahref"https://buymeacoffee.com/abhisheknys" ></a>
 <a> <img width="100px" height="100px" ahref"https://buymeacoffee.com/abhisheknys" src="https://github.com/user-attachments/assets/81db74af-c58e-4f13-9abd-aefd3d3985af">
-![bmc_qr](https://github.com/user-attachments/assets/792f9a67-40f9-4a9c-abb1-55572de0fb38)</a>
+
+![bmc_qr](https://github.com/user-attachments/assets/d5530083-d81a-4502-80a5-e5687ca70087)
+
+</a>
  </h3>
 <br>
 
