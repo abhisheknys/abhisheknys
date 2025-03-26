@@ -1,4 +1,4 @@
-![qrcode](https://github.com/user-attachments/assets/8ca95f5e-e38f-46d7-98c1-d44a63b19df2)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=166&pause=1000&color=1A50BC&background=00DC0000&center=true&vCenter=true&random=true&width=7500&height=450&lines=Hi%2C+I'm+Abhishek+Pal+and+I+have+interests+in+Mern+and+AI+related+concepts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=166&pause=1000&color=1A50BC&background=00DC0000&center=true&vCenter=true&random=true&width=7500&height=450&lines=Hi%2C+I'm+Abhishek+Pal+and+I+have+interests+in+Mern+and+AI+related+concepts)](https://git.io/typing-svg)
 
 <h3 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
   I am human who love technology , nature and camera 📷.</h3>
@@ -20,6 +20,7 @@
 
 
 # 🍵 Buy Me a Coffee:!
+![qrcode](https://github.com/user-attachments/assets/8ca95f5e-e38f-46d7-98c1-d44a63b19df2)
 [Uploading qrcode.svg…](<?xml version="1.0" standalone="no"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="248" height="248">
 	<!-- Created with https://api.qrserver.com (QR Code API, see goQR.me/api for information) -->
