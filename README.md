@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at https://www.abhishekpal.com/projects/ 
+- 👨‍💻 All of my projects are available at https://abhipal.vercel.app/projects/ 
 
 - 💬 Ask me about **React, MongoDB, JavaScript Etc.**
 
@@ -19,7 +19,7 @@
 
  <br>
  <h3 align="left">
-<a align="left" ahref"https://buymeacoffee.com/abhisheknys" >buymeacoffee.com/abhisheknys</a>
+<a align="left" ahref"https://buymeacoffee.com/abhisheknys" ></a>
 <a> <img width="100px" height="100px" ahref"https://buymeacoffee.com/abhisheknys" src="https://github.com/user-attachments/assets/81db74af-c58e-4f13-9abd-aefd3d3985af"> </a>
  </h3>
 <br>
