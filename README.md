@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at https://abhipal.vercel.app/projects/ 
+- 👨‍💻 All of my projects are available at https://abhipal.vercel.app/#paper
 
 - 💬 Ask me about **html, Css, JavaScript Etc.**
 
