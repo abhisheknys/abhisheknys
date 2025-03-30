@@ -19,12 +19,14 @@
 
 
 
-# 🍵 Buy Me a Coffee:!
-![qrcode](https://github.com/user-attachments/assets/8ca95f5e-e38f-46d7-98c1-d44a63b19df2)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhisheknys) [![Facebook](https://img.shields.io/badge/Facebook-%0e7cc6.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhisheknys) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhisheknys) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abhisheknys) [![Skype](https://img.shields.io/badge/Skype-%23E4405F.svg?logo=Skype&logoColor=white)](https://skype.com/abhisheknys) 
+
+
+
+# 🍵 Buy Me a Coffee:!
+![qrcode](https://github.com/user-attachments/assets/8ca95f5e-e38f-46d7-98c1-d44a63b19df2)
 
 
 # 💻 Tech Stack:
